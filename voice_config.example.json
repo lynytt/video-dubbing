@@ -1,0 +1,38 @@
+﻿{
+  "说明": "自定义角色音色配置示例。复制此文件并修改值，然后通过 --voice-list 参数加载。",
+  "Girl": {
+    "voice": "zh-CN-XiaoyiNeural",
+    "rate": "+10%",
+    "note": "可爱女童声，活泼动画风格"
+  },
+  "Boy": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+5%",
+    "note": "阳光男童声"
+  },
+  "Mom": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+0%",
+    "note": "温暖女声，亲切柔和"
+  },
+  "Dad": {
+    "voice": "zh-CN-YunyangNeural",
+    "rate": "+0%",
+    "note": "稳重男声，专业可靠"
+  },
+  "Rabbit": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-5%",
+    "note": "阳光男声慢速，神秘沉稳"
+  },
+  "Narrator": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+0%",
+    "note": "温暖女声，适合旁白"
+  },
+  "Default": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+0%",
+    "note": "默认音色"
+  }
+}

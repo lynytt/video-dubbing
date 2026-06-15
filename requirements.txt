@@ -1,0 +1,11 @@
+﻿# ============================================================
+# Video Dubbing Tool - 依赖清单
+# ============================================================
+# 安装方式: pip install -r requirements.txt
+
+# 核心依赖
+openai-whisper>=20231117     # 语音识别（Whisper）
+edge-tts>=6.0.0              # 微软 Edge TTS 接口
+
+# 音频处理（FFmpeg 需单独安装）
+# FFmpeg: https://ffmpeg.org/download.html
