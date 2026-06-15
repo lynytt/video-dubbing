@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频配音工具"
+  short_description: "将英文视频自动转写、翻译、角色识别、生成中文配音并合入视频"
+  default_prompt: "请帮我将这个英文视频翻译成中文配音"
